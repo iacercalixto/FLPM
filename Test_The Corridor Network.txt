@@ -1,0 +1,12 @@
+The Corridor Network - configuration No Trip Table, 50% of link counts available: 0.992 seconds.
+The Corridor Network - configuration Alternative UE Trip Table, 50% of link counts available: 0.624 seconds.
+The Corridor Network - configuration Correct Trip Table, 50% of link counts available: 0.359 seconds.
+The Corridor Network - configuration Small Error Trip Table, 50% of link counts available: 4.5 seconds.
+The Corridor Network - configuration No Trip Table, 67% of link counts available: 0.336 seconds.
+The Corridor Network - configuration Alternative UE Trip Table, 67% of link counts available: 0.268 seconds.
+The Corridor Network - configuration Correct Trip Table, 67% of link counts available: 0.285 seconds.
+The Corridor Network - configuration Small Error Trip Table, 67% of link counts available: 3.099 seconds.
+The Corridor Network - configuration No Trip Table, 100% of link counts available: 0.219 seconds.
+The Corridor Network - configuration Alternative UE Trip Table, 100% of link counts available: 0.449 seconds.
+The Corridor Network - configuration Correct Trip Table, 100% of link counts available: 0.52 seconds.
+The Corridor Network - configuration Small Error Trip Table, 100% of link counts available: 5.135 seconds.
